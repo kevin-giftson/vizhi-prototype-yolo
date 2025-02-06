@@ -27,22 +27,22 @@ Before running the project, ensure the following are installed:
 3. Yolov8 model
 
 ## **How to Use**
-1. Clone the repository or copy the code into a Python file, e.g., object_detection.py.
+**1. Clone the repository or copy the code into a Python file, e.g., object_detection.py.**
 
 ```bash
-git clone https://github.com/yourusername/yolo-object-detection.git
-cd yolo-object-detection
+https://github.com/kevin-giftson/vizhi-prototype-yolo.git
+cd vizhi-prototype-yolo
 ```
-2. Run the script:
+**2. Run the script:**
 
 ```bash
-python object_detection.py
+python cam_type.py
 ```
-3. Follow the instructions:
+**3. Follow the instructions:**
 
 The program will prompt you to enter the name of the object to detect (e.g., person, chair, etc.).
 The webcam feed will display, and the application will start detecting the specified object.
-4. Controls:
+**4. Controls:**
 
 - 's': Stop detection and input a new object to detect.
 - 'q': Quit the application.
