@@ -40,8 +40,9 @@ python cam_type.py
 ```
 **3. Follow the instructions:**
 
-The program will prompt you to enter the name of the object to detect (e.g., person, chair, etc.).
-The webcam feed will display, and the application will start detecting the specified object.
+- The program will prompt you to enter the name of the object to detect (e.g., person, chair, etc.).
+- The webcam feed will display, and the application will start detecting the specified object.
+
 **4. Controls:**
 
 - 's': Stop detection and input a new object to detect.
